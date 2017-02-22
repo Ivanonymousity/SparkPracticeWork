@@ -1,0 +1,6 @@
+"last","first","birth","gender"
+"marlowe","ivan",1995,"male"
+"van","low",1995,"male"
+"sad","happy",1992,"male"
+"sdad","google",1990,"female"
+"sdads","goosgle",1990,"N/A"
